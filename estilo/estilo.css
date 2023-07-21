@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Colores */
+body {
+  background-color: #f8f8f8; /* Gris claro */
+  color: #333; /* Texto gris oscuro */
+}
+
+.navbar {
+  background-color: #ff9800; /* Naranja */
+  color: #fff; /* Texto blanco */
+}
+
+.navbar-nav .nav-link {
+  color: #333; /* Texto gris oscuro */
+}
+
+.jumbotron {
+  background-color: #2196f3; /* Azul oscuro */
+  color: #fff; /* Texto blanco */
+}
+
+.card {
+  background-color: #fff; /* Fondo blanco */
+  border: 1px solid #ccc; /* Borde gris */
+}
+
+.card-title {
+  color: #333; /* Texto gris oscuro */
+}
+
+.card-text {
+  color: #555; /* Texto gris */
+}
+
+.form-control {
+  border-color: #ccc; /* Borde gris */
+}
+
+.btn-primary {
+  background-color: #ff9800; /* Naranja */
+  border-color: #ff9800; /* Borde Naranja */
+}
+
+footer {
+  background-color: #f8f8f8; /* Gris claro */
+  color: #555; /* Texto gris */
+}
